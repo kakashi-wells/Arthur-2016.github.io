@@ -1,6 +1,6 @@
-print("Ingresa tu nivel de chidori")
+print("Ingresa tu nivel del Rasengan")
 numero = int(input())
 if numero >= 600000:
-    print("Chidori Nagashi")
+    print("Rasen-Shuriken")
 else:
-    print ("Chidori Eizo")
+    print ("Odama Rasengan")
