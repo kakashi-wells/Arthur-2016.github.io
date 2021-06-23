@@ -1,6 +1,6 @@
-print("Ingresa tu doujutsu")
+print("Ingresa tu nivel de chidori")
 numero = int(input())
 if numero >= 600000:
-    print("Mangekyou Sharingan")
+    print("Chidori Nagashi")
 else:
-    print ("Choku-Tomoe Rinnegan")
+    print ("Chidori Eizo")
