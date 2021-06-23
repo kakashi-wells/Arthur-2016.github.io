@@ -1,5 +1,5 @@
 def saludar(nombre):
-    return "Hola {} perdon por la tardanza, me perdi en el sendero de la vida".format(nombre)
+    return "Hola {} Aquellos que rompen las reglas son escoria, pero los que abandonan a un amigo son peor que escoria.".format(nombre)
 
 print("Ingresa tu nombre")
 nombre = input()
