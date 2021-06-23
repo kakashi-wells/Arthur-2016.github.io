@@ -1,6 +1,10 @@
-print("Ingresa 1 sombra")
+print("Ingresa 1 fastidio")
 num1 = int(input())
-print("Ingresa 1 sombra/2 sombras")
+print("Ingresa 2 fastidios")
 num2 = int(input())
-resultado = num1 + num2 
+print("Ingresa 3 fastidios")
+num3 = int(input())
+print("Ingresa 4 fastidios")
+num4 = int(input())
+resultado = num1 + num2 + num3 + num4
 print ("El resultado es:" + str(resultado))
