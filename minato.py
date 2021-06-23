@@ -1,6 +1,6 @@
 rep = 1
-while rep <=10:
-    print("Hiraishin no Jutsu nivel 2")
+while rep <=100:
+    print("Rasengan")
     rep+= 1
 
     print ("el ciclo se termino")
